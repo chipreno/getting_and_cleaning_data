@@ -1,0 +1,5 @@
+ [1] "Subject"              "Activity"             "tBodyAcc-mean()-X"    "tBodyAcc-mean()-Y"   
+ [5] "tBodyAcc-mean()-Z"    "tBodyAcc-std()-X"     "tBodyAcc-std()-Y"     "tBodyAcc-std()-Z"    
+ [9] "tGravityAcc-mean()-X" "tGravityAcc-mean()-Y" "tGravityAcc-mean()-Z" "tGravityAcc-std()-X" 
+[13] "tGravityAcc-std()-Y"  "tGravityAcc-std()-Z"  "tBodyGyro-mean()-X"   "tBodyGyro-mean()-Y"  
+[17] "tBodyGyro-mean()-Z"   "tBodyGyro-std()-X"    "tBodyGyro-std()-Y"    "tBodyGyro-std()-Z
